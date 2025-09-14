@@ -1,4 +1,4 @@
-R files for MFC CDT Kick-Off Camp 2024
+R files for MFC CDT Kick-Off Camp 2025
 - Activity1.R and Activity2.R are the R Scripts to perform the exercises (with Solutions now added)
 - gdp_9am_atlantic.nc is the data for Activity 1
 - drifterXXX.mat files are the data for Activity 2
