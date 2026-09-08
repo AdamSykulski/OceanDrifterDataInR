@@ -18,6 +18,7 @@ library(ncdf4)
 library(ggplot2)
 
 # Load data, which correspond to 74921 SST measurements in the North Atlantic
+# for this lab we are omitting the location and time of each estimate and just comparing the collection as a distribution
 sst <- ncvar_get(nc_open("gdp_9am_atlantic.nc"), "sst") # SST from drifters
 err_sst <- ncvar_get(nc_open("gdp_9am_atlantic.nc"), "err_sst") # corresponding uncertainties from drifters
 mur_sst <- ncvar_get(nc_open("gdp_9am_atlantic.nc"), "mur_sst") # corresponding SST from satellites
