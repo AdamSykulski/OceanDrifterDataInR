@@ -87,6 +87,8 @@ ggplot() +
 
 # Q6: Repeat the analysis on drifterulysses! Can you spot tides in this dataset?!
 # This is a length 19704 trajectory of positions sampled every 2 hours starting from 02/01/2005 at 00:07:12 UTC
+# You can also try drifterinti, drifterisis, driftermagellan, drifternansen, all are quite different!
 
-# Q7: Download the entire dataset (drifters.mat), and create visualisations of all the trajectories
+
+# Q7: (Optional!) Download the entire dataset (ask your lecturer for the link!), and create visualisations of all the trajectories
 # Try make a plot of average speeds or of average spectra as in the slides, or of some other statistic of your choice?
